@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Associate Professor of Operations Management
+subtitle: <a href="https://business.purdue.edu">Associate Professor of Operations Management
 
 profile:
   align: right
