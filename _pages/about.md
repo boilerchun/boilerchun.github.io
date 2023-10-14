@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#https://business.purdue.edu/'>Associate Professor of Operations Management </a>. Mitchell E. Daniels, Jr. School of Business
+Purdue University
+shi178@purdue.edu
 
 profile:
   align: right
