@@ -21,9 +21,9 @@ I strive to develop high impact research and tackle real-world problems. I have 
 
 ### Selected Projects
 
-#### Criminal Justice Operations
+#### Predictive and Operations Tool for Criminal Justice System
 
 
-#### Hospital Operations
+#### Patient Flow Models to Improve Hospital Operations and Patient Outcomes
 
 
