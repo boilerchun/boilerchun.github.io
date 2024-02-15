@@ -114,7 +114,21 @@ Forthcoming, *POM special issue on Managing Pandemics: A POM Perspective.* [[Abs
     - Former title: "Hospital Inpatient Operations: Mathematical Models and Managerial Insights."
 
 ### Other Conference Publication
+1. <ins>T. Jang</ins>, **P. Shi**, and X. Wang.
+**Group-Aware Threshold Adaptation for Fair Classification.** [[Abstract and full paper]](https://arxiv.org/abs/2111.04271)
+*Proceedings of the 2022 AAAI Conference on Artificial Intelligence* (15% acceptance rate)
 
+2. <ins>Z. Zhang</ins>, **P. Shi**, A. Ward.
+**Routing for Fairness and Efficiency in a Queueing Model with Reentry and Continuous Customer Classes.**
+*Proceedings of the 2022 American Control Conference (ACC).* [[Full paper]](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/d/2749/files/2019/04/ACC-paper.pdf)
+
+3. <ins>I. Attari</ins>, <ins>P. Crain</ins>, P. Shi, J. Helm, N. Adams<sup>‡</sup>.
+**A Simulation Analysis Of Analytics-driven Community-based Re-integration Programs.**
+*Proceedings of the 2021 Winter Simulation Conference.*
+
+4. <ins>Y. Pan</ins>, <ins>Z. Xu</ins>, et al. **P. Shi**, H. Pan<sup>‡</sup>, K. Yang<sup>‡</sup>, S. Wu<sup>‡</sup>
+**A High-fidelity, Machine-learning Enhanced Queueing Network Simulation Model for Hospital Ultrasound Operations.**
+*Proceedings of the 2021 Winter Simulation Conference.* [[Abstract and full paper]](https://arxiv.org/abs/2104.07451)
 
 ### Medical Publication
 
