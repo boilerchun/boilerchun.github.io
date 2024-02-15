@@ -1,12 +1,11 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
 title: People
 description: 
 nav: true
 nav_order: 4
 ---
-
 
 ## Undergraduate Students
 **To add current Undergraduate RAs**
