@@ -14,14 +14,15 @@ nav_order: 4
      Mitchell E. Daniels, Jr. School of Business, Purdue University.</p>
 </div>
 
+## Graduate Students
 <div style="display: flex; align-items: center;">
   <img src="/assets/img/XiaoquanGao_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
-  <!-- You can keep your text in markdown here. This particular line needs to be HTML because we are inside a HTML block. -->
-  <p>**Xiaoquan Gao** (co-advise with Dr. Nan Kong)
-            Ph.D. Student [Website](https://xiaoquanhi.github.io/web/)
-            Industrial Engineering
-            Purdue University</p>
 </div>
+
+**Xiaoquan Gao** (co-advise with Dr. Nan Kong)  
+Ph.D. Student [Website](https://xiaoquanhi.github.io/web/)  
+Industrial Engineering  
+Purdue University
 
 <div style="display: flex; align-items: center;">
   <img src="/assets/img/TianchunLi_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
