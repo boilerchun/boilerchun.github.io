@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /people/
-title: People
+title: Research Team
 description: 
 nav: true
 nav_order: 4
 ---
+
+I have had the pleasure of working closely with PhD students and undergraduate students; see my research team. Graduate students with solid theoretical background could check out this research opportunity [Deep-learning Enhanced Healthcare Modeling and Optimization](https://web.ics.purdue.edu/~shi178/Deep%20learning%20project.pdf). Purdue undergraduate students are encouraged to apply through my [DURI project](https://www.purdue.edu/discoverypark/duri/projects/index.php).
 
 <div style="display: flex; align-items: center;">
   <img src="/assets/img/prof_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
