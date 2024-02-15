@@ -7,13 +7,10 @@ nav: true
 nav_order: 4
 ---
 
-| ![Pengyi Shi](/assets/img/prof_pic.jpg) | **Pengyi Shi**, Ph.D., **Principal Investigator**<br>Associate Professor Operation Management<br>Mitchell E. Daniels, Jr. School of Business, Purdue University. |
-
 <div style="display: flex; align-items: center;">
   <img src="/assets/img/prof_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
-  <!-- You can keep your text in markdown here. This particular line needs to be HTML because we are inside a HTML block. -->
-  <p>**Pengyi Shi**, Ph.D., **Principal Investigator**
-     Associate Professor Operation Management
+  <p><strong>Pengyi Shi</strong>, Ph.D., <em>Principal Investigator</em><br>
+     Associate Professor Operation Management<br>
      Mitchell E. Daniels, Jr. School of Business, Purdue University.</p>
 </div>
 
