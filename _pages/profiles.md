@@ -18,7 +18,7 @@ nav_order: 4
 <div style="display: flex; align-items: center;">
   <img src="/assets/img/XiaoquanGao_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
   <p><strong>Xiaoquan Gao</strong> <em>(co-advise with Dr. Nan Kong)</em><br>
-     Ph.D. Student <a href="https://xiaoquanhi.github.io/web/">[Website]</a><br>
+     Ph.D. Student <a href="https://xiaoquanhi.github.io/web/">Website</a><br>
      Industrial Engineering<br>
      Purdue University</p>
 </div>
