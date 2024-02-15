@@ -2,26 +2,25 @@
 layout: profiles
 permalink: /people/
 title: People
-description: XX
+description: 
 nav: true
-nav_order: 5
+nav_order: 4
 
-profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-
 ## Principal Investigators
+profiles:
   - align: left
     image: prof_pic.jpg
     content: about_PengyiShi.md
     image_circular: false # crops the image to make it circular
 
 ## Graduate Students
+profiles:
   - align: left
     image: XiaoquanGao_pic.jpg
     content: about_XiaoquanGao.md
     image_circular: false # crops the image to make it circular
-
   - align: left 
     image: TianchunLi_pic.jpg
     content: about_TianchunLi.md
