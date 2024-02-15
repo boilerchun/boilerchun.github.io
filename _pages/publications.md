@@ -131,8 +131,43 @@ Forthcoming, *POM special issue on Managing Pandemics: A POM Perspective.* [[Abs
 *Proceedings of the 2021 Winter Simulation Conference.* [[Abstract and full paper]](https://arxiv.org/abs/2104.07451)
 
 ### Medical Publication
+1. <ins>X. Gao</ins>, <ins>S. Alam</ins>, **P. Shi**, F. Dexter<sup>‡</sup>, N. Kong.
+**Interpretable Machine Learning Models to Predict Hospital Patient Readmissions.**
+_BMC Med Inform Decis Mak. 2023 Jun 5;23(1):104._
 
+2. F. Dexter<sup>‡</sup>, R. H. Epstein<sup>‡</sup>, **P. Shi**.
+**Proportions of Outpatients Discharged the Same or the Following Day are Sufficient Data to Guide the Assessment of the Cases.**
+_Cureus. 2021; 13 (3)._
 
+3. F. Dexter<sup>‡</sup>, R. H. Epstein<sup>‡</sup>, **P. Shi**.
+**Forecasting the Probability That Patient Will Remain in the Hospital Overnight Versus Have a Length of Stay of 2 or More Days.**
+_Cureus. 2020; 12(10): e10847._
+
+4. **P. Shi**, J. Yan, P. Keskinocak, A. L Shane<sup>‡</sup>, J. L Swann.
+**The Impact of Opening Dedicated Clinics on Disease Transmission during an Influenza Pandemic.**
+_PLoS ONE. 2020; 15(8): e0236455._
+
+5. **P. Shi**, F. Dexter<sup>‡</sup>, R. H. Epstein<sup>‡</sup>.
+**Comparing Policies for Case Scheduling Within One Day of Surgery by Markov Chain Models.**
+_Anesthesia & Analgesia. 2016; 122(2):526-38._
+
+6. F. Dexter<sup>‡</sup>, **P. Shi**, R. H. Epstein<sup>‡</sup>.
+**Descriptive study of case scheduling and cancellations within one week of the day of surgery.**
+_Anesthesia & Analgesia. 2012; 115(5): 1188-95._
+
+7. **P. Shi**, P. Keskinocak, J. L. Swann, B. Y. Lee<sup>‡</sup>.
+**The Impact of Mass Gatherings and Holiday Travelling on the Course of an Influenza Pandemic: A Computational Model.**
+_BMC Public Health. 2010; 10: 778._
+
+8. **P. Shi**, P. Keskinocak, J. L. Swann, B. Y. Lee<sup>‡</sup>.
+**Modeling Seasonality and Viral Mutation to Predict the Course of an Influenza Pandemic.**
+_Epidemiology and Infection. 2010; pp. 1-10._
 
 ### Other Papers and Publications
+1. H. Bastani, **P. Shi**.
+**Proceed with Care: Integrating Predictive Analytics with Patient Decision-Making.**
+_Invited book chapter for Modeling for Health: Making Changes._ [[Draft]](https://web.ics.purdue.edu/~shi178/BastaniShi_IntegratingPredictiveAnalytics.pdf)
 
+2. **P. Shi**, J. G. Dai, D. Ding, J. Ang, M. Chou, X. Jin<sup>‡</sup> and J. Sim<sup>‡</sup>
+**Patient Flow from Emergency Department to Inpatient Wards: Empirical Observations from a Singaporean Hospital.**
+_This is a 69-page document on a comprehensive empirical study of inpatient flow management._ **To add link**
