@@ -9,7 +9,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 ### Selected Working Papers
-#### Stochastic Models and Control
+### Stochastic Models and Control
 1. <ins>X. Gao</ins>, **P. Shi**, N. Kong.
 **Stopping the Revolving Door: MDP-Based Decision Support for Community Corrections Placement.** [[Abstract and full paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672337)
   - First place, Outstanding Innovation in Service Systems Engineering Award, IISE, 2023 (faculty lead)
@@ -32,7 +32,7 @@ nav_order: 2
    - Second place, College of Healthcare Operations Management Best Paper Award, POMS, 2020 
    - Selected to 2019 MSOM Conference Healthcare SIG
 
-#### Machine Learning and Reinforcement Learning
+### Machine Learning and Reinforcement Learning
 6. <ins>B. Li</ins>, <ins>A. Castellanos</ins>, **P. Shi**, and A. Ward.
 **Combining Machine Leaning and Queueing Theory for Data-driven Incarceration-Diversion Program Management.** [[Draft]](https://web.ics.purdue.edu/~shi178/IAAI_24_forShare.pdf)
    - Preliminary accepted IAAI 2024 (31% acceptance rate).
