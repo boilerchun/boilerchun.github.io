@@ -5,7 +5,5 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 I am an Associate Professor of [Operations Management](https://business.purdue.edu/academics/Operations/) at the Mitchell E. Daniels, Jr. School of Business, Purdue University. I am an affiliate faculty of the [Regenstrief Center for Healthcare Engineering](https://www.purdue.edu/research/rche/) and the [Integrative Data Science Initiative](). 
-Hello Here is a test : )
 
-ß
 I obtained my Ph.D. degree from the School of [Industrial and Systems Engineering](https://www.isye.gatech.edu/) at Georgia Institute of Technology in December 2013. I received my B.Eng. in Applied Mathematics and Mechanics and B.A. in Economics (double major) from [Peking University](http://english.pku.edu.cn/), China, in June 2007. My Ph.D. advisors are [Jim Dai](https://people.orie.cornell.edu/jdai/) and [Pinar Keskinocak](https://www.isye.gatech.edu/users/pinar-keskinocak). Here is a copy of my [Ph.D. thesis](https://web.ics.purdue.edu/~shi178/Pengyi_Shi_phd_thesis.pdf).
