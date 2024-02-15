@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /research/
 title: Resarch
 description:
 nav: true
