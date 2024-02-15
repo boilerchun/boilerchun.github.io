@@ -15,22 +15,23 @@ nav_order: 4
      Mitchell E. Daniels, Jr. School of Business, Purdue University.</p>
 </div>
 
-<table class="custom">
-    <tr>
-        <td><img src="/assets/img/XiaoquanGao_pic.jpg"></td>
-        <td>**Xiaoquan Gao** (co-advise with Dr. Nan Kong)
+<div style="display: flex; align-items: center;">
+  <img src="/assets/img/XiaoquanGao_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
+  <!-- You can keep your text in markdown here. This particular line needs to be HTML because we are inside a HTML block. -->
+  <p>**Xiaoquan Gao** (co-advise with Dr. Nan Kong)
             Ph.D. Student [Website](https://xiaoquanhi.github.io/web/)
             Industrial Engineering
-            Purdue University </td>
-    </tr>
-    <tr>
-        <td><img src="/assets/img/TianchunLi_pic.jpg"></td>
-        <td>**Tianchun Li** (co-advise with Dr. Joy Wang)
+            Purdue University</p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/assets/img/TianchunLi_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
+  <!-- You can keep your text in markdown here. This particular line needs to be HTML because we are inside a HTML block. -->
+  <p>**Tianchun Li** (co-advise with Dr. Joy Wang)
             Ph.D. Student [Website](https://www.linkedin.com/in/tianchun/)
             Electrical and Computer Engineering
-            Purdue University </td>
-    </tr>
-</table>
+            Purdue University </p>
+</div>
 
 ## Undergraduate Students
 **To add current Undergraduate RAs**
