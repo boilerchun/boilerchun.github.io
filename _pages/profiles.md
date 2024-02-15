@@ -7,30 +7,15 @@ nav: true
 nav_order: 4
 ---
 
-<style>
-    table.custom {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    .custom th, .custom td {
-        text-align: left;
-        padding: 8px;
-        border: none; /* Achieves 0 line width */
-        width: 200px; /* Fixed width for columns, adjust as necessary */
-    }
-    .custom img {
-        width: 100%; /* Ensures images are responsive within the cell */
-        height: auto;
-    }
-</style>
+<div style="display: flex; align-items: center;">
+  <img src="/assets/img/prof_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
+  <!-- You can keep your text in markdown here. This particular line needs to be HTML because we are inside a HTML block. -->
+  <p>**Pengyi Shi**, Ph.D., **Principal Investigator**
+     Associate Professor Operation Management
+     Mitchell E. Daniels, Jr. School of Business, Purdue University.</p>
+</div>
 
 <table class="custom">
-    <tr>
-        <td><img src="/assets/img/prof_pic.jpg"></td>
-        <td>**Pengyi Shi**, Ph.D., **Principal Investigator**
-            Associate Professor Operation Management
-            Mitchell E. Daniels, Jr. School of Business, Purdue University</td>
-    </tr>
     <tr>
         <td><img src="/assets/img/XiaoquanGao_pic.jpg"></td>
         <td>**Xiaoquan Gao** (co-advise with Dr. Nan Kong)
