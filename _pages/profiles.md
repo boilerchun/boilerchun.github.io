@@ -6,15 +6,12 @@ description:
 nav: true
 nav_order: 4
 
-## Principal Investigators
 profiles:
-  - align: left
+  - align: right
     image: prof_pic.jpg
     content: about_PengyiShi.md
     image_circular: false # crops the image to make it circular
 
-## Graduate Students
-profiles:
   - align: left
     image: XiaoquanGao_pic.jpg
     content: about_XiaoquanGao.md
@@ -23,6 +20,7 @@ profiles:
     image: TianchunLi_pic.jpg
     content: about_TianchunLi.md
     image_circular: false # crops the image to make it circular
+---
 
 ## Undergraduate Students
 **To add current Undergraduate RAs**
@@ -38,5 +36,3 @@ profiles:
 - **Hang Wang**, BS 22, Computer Science and Mathematics, Purdue University (joined MS of Data Science at Harvard University)
 - **Sabriya Alam**, BS 21, Electrical and Computer Engineering, Purdue University (joined Ph.D. of EECS at Harvard University, NSF Graduate Fellowship)
 - **Parker Crain**, BS 21, Electrical and Computer Engineering, Purdue University (joined MS of EECS at Carnegie Mellon University, GEM Fellowship)
-
----
