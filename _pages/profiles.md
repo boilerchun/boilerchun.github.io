@@ -13,19 +13,14 @@ profiles:
 ## Principal Investigators
   - align: left
     image: prof_pic.jpg
-    content: 
+    content: about_PengyiShi.md
     image_circular: false # crops the image to make it circular
 
 ## Graduate Students
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: XiaoquanGao_pic.jpg
+    content: about_XiaoquanGao.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>403 W State St Kran 472</p>
-      <p>Mitchell E. Daniels, Jr. School of Business</p>
-      <p>Purdue University</p>
-      <p>West Lafayette, IN 47907</p>
 
 ## Undergraduate Students
 
