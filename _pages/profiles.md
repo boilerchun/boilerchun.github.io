@@ -5,21 +5,47 @@ title: People
 description: 
 nav: true
 nav_order: 4
+--
 
-profiles:
-  - align: right
-    image: prof_pic.jpg
-    content: about_PengyiShi.md
-    image_circular: false # crops the image to make it circular
+<style>
+    table.custom {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    .custom th, .custom td {
+        text-align: left;
+        padding: 8px;
+        border: none; /* Achieves 0 line width */
+        width: 200px; /* Fixed width for columns, adjust as necessary */
+    }
+    .custom img {
+        width: 100%; /* Ensures images are responsive within the cell */
+        height: auto;
+    }
+</style>
 
-  - align: left
-    image: XiaoquanGao_pic.jpg
-    content: about_XiaoquanGao.md
-    image_circular: false # crops the image to make it circular
-  - align: left 
-    image: TianchunLi_pic.jpg
-    content: about_TianchunLi.md
-    image_circular: false # crops the image to make it circular
+<table class="custom">
+    <tr>
+        <td><img src="/assets/img/prof_pic.jpg"></td>
+        <td>**Pengyi Shi**, Ph.D., **Principal Investigator**
+            Associate Professor Operation Management
+            Mitchell E. Daniels, Jr. School of Business, Purdue University</td>
+    </tr>
+    <tr>
+        <td><img src="/assets/img/XiaoquanGao_pic.jpg"></td>
+        <td>**Xiaoquan Gao** (co-advise with Dr. Nan Kong)
+            Ph.D. Student [Website](https://xiaoquanhi.github.io/web/)
+            Industrial Engineering
+            Purdue University </td>
+    </tr>
+    <tr>
+        <td><img src="/assets/img/TianchunLi_pic.jpg"></td>
+        <td>**Tianchun Li** (co-advise with Dr. Joy Wang)
+            Ph.D. Student [Website](https://www.linkedin.com/in/tianchun/)
+            Electrical and Computer Engineering
+            Purdue University </td>
+    </tr>
+</table>
 
 ## Undergraduate Students
 **To add current Undergraduate RAs**
