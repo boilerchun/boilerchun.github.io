@@ -7,9 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-| ![](/assets/img/prof_pic.jpg) | **Pengyi Shi**, Ph.D., **Principal Investigator**
-     Associate Professor Operation Management
-     Mitchell E. Daniels, Jr. School of Business, Purdue University. |
+| ![Pengyi Shi](/assets/img/prof_pic.jpg) | **Pengyi Shi**, Ph.D., **Principal Investigator**<br>Associate Professor Operation Management<br>Mitchell E. Daniels, Jr. School of Business, Purdue University. |
 
 <div style="display: flex; align-items: center;">
   <img src="/assets/img/prof_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
