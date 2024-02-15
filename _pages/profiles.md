@@ -61,5 +61,5 @@ nav_order: 4
 - **Hang Wang**, BS 22, Computer Science and Mathematics, Purdue University (joined MS of Data Science at Harvard University)
 - **Sabriya Alam**, BS 21, Electrical and Computer Engineering, Purdue University (joined Ph.D. of EECS at Harvard University, NSF Graduate Fellowship)
 - **Parker Crain**, BS 21, Electrical and Computer Engineering, Purdue University (joined MS of EECS at Carnegie Mellon University, GEM Fellowship)
----
+
 
