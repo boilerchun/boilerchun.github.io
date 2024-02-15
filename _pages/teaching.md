@@ -21,6 +21,4 @@ I strive to develop high impact research and tackle real-world problems. I have 
 
 I have had the pleasure of working closely with PhD students and undergraduate students; see my research team. Graduate students with solid theoretical background could check out this research opportunity [Deep-learning Enhanced Healthcare Modeling and Optimization](https://web.ics.purdue.edu/~shi178/Deep%20learning%20project.pdf). Purdue undergraduate students are encouraged to apply through my [DURI project](https://www.purdue.edu/discoverypark/duri/projects/index.php).
 
-This is a test~~
-
 
