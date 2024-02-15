@@ -23,13 +23,14 @@ nav_order: 4
      Purdue University</p>
 </div>
 
+<br />
+
 <div style="display: flex; align-items: center;">
   <img src="/assets/img/TianchunLi_pic.jpg" alt="" style="width: 100px; height: auto; margin-right: 10px;">
-  <!-- You can keep your text in markdown here. This particular line needs to be HTML because we are inside a HTML block. -->
-  <p>**Tianchun Li** (co-advise with Dr. Joy Wang)
-            Ph.D. Student [Website](https://www.linkedin.com/in/tianchun/)
-            Electrical and Computer Engineering
-            Purdue University </p>
+  <p><strong>Tianchun Li</strong> <em>(co-advise with Dr. Joy Wang)</em><br>
+     Ph.D. Student <a href="https://www.linkedin.com/in/tianchun/">Website</a><br>
+     Electrical and Computer Engineering<br>
+     Purdue University</p>
 </div>
 
 ## Undergraduate Students
