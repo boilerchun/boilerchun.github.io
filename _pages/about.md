@@ -34,11 +34,11 @@ Here are links to my [CV](https://web.ics.purdue.edu/~shi178/Pengyi%20Shi_CV_Sep
 Click icons for more information!
 
 <div style="display: flex; justify-content: start; align-items: center;">
-  <a href="https://boilerchun.github.io/publications/" target="_blank">
+  <a href="https://boilerchun.github.io/project_criminal_justice/" target="_blank">
     <img src="/assets/img/icon_criminal_justice.png" alt="Criminal Justice Operations" style="width: 250px; height: 170px; margin-right: 10px;">
   </a>
-  <a href="https://boilerchun.github.io/publications/" target="_blank">
-    <img src="/assets/img/icon_hospital.png" alt="Hospital Operations" style="width: 250px; height: 170px;">
+  <a href="https://boilerchun.github.io/project_hospital/" target="_blank">
+    <img src="/assets/img/icon_hospital.png" alt="Hospital Operations" style="width: 258px; height: 175px;">
   </a>
 </div>
 
