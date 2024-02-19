@@ -19,11 +19,11 @@ Jail overcrowding is a pressing issue within the U.S. corrections system, with r
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="/assets/img/CC_revolving_door.png" alt="Alt text for image 1" style="width: 180px; height: auto;">
+    <img src="/assets/img/CC_revolving_door.png" alt="Alt text for image 1" style="width: auto; height: 150px;">
     <p>Revolving door in criminal justice system.</p>
   </div>
   <div style="text-align: center;">
-    <img src="/assets/img/CC_model.png" alt="Alt text for image 2" style="width: 450px; height: auto;">
+    <img src="/assets/img/CC_model.png" alt="Alt text for image 2" style="width: auto; height: 150px;">
     <p>Process flow of our MDP model.</p>
   </div>
 </div>
@@ -42,11 +42,11 @@ Incarceration-diversion programs have proven effective in reducing recidivism. A
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="/assets/img/IAAI_program.png" alt="Alt text for image 1" style="width: 400px; height: auto;">
+    <img src="/assets/img/IAAI_program.png" alt="Alt text for image 1" style="width: auto; height: 180px;">
     <p>Incarceration-diversion program diagram.</p>
   </div>
   <div style="text-align: center;">
-    <img src="/assets/img/IAAI_framework.png" alt="Alt text for image 2" style="width: 250px; height: auto;">
+    <img src="/assets/img/IAAI_framework.png" alt="Alt text for image 2" style="width: auto; height: 180px;">
     <p>Overview of our framework and relevant parameters.</p>
   </div>
 </div>
