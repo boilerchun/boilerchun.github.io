@@ -42,11 +42,11 @@ Incarceration-diversion programs have proven effective in reducing recidivism. A
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="/assets/img/IAAI_program.png" alt="Alt text for image 1" style="width: 300px; height: auto;">
+    <img src="/assets/img/IAAI_program.png" alt="Alt text for image 1" style="width: 400px; height: auto;">
     <p>Incarceration-diversion program diagram.</p>
   </div>
   <div style="text-align: center;">
-    <img src="/assets/img/IAAI_framework.png" alt="Alt text for image 2" style="width: 300px; height: auto;">
-    <p>Overview of our framework and relevant paramters.</p>
+    <img src="/assets/img/IAAI_framework.png" alt="Alt text for image 2" style="width: 250px; height: auto;">
+    <p>Overview of our framework and relevant parameters.</p>
   </div>
 </div>
