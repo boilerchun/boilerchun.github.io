@@ -35,10 +35,10 @@ Click icons for more information!
 
 <div style="display: flex; justify-content: start; align-items: center;">
   <a href="https://boilerchun.github.io/publications/" target="_blank">
-    <img src="/assets/img/prof_pic.jpg" alt="Icon 1" style="width: 40px; height: 40px; margin-right: 10px;">
+    <img src="/assets/img/icon_criminal_justice.png" alt="Criminal Justice Operations" style="width: 250px; height: 170px; margin-right: 10px;">
   </a>
   <a href="https://boilerchun.github.io/publications/" target="_blank">
-    <img src="/assets/img/prof_pic.jpg" alt="Icon 2" style="width: 40px; height: 40px;">
+    <img src="/assets/img/icon_hospital.png" alt="Hospital Operations" style="width: 250px; height: 170px;">
   </a>
 </div>
 
