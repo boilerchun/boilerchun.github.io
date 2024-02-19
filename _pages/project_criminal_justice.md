@@ -2,7 +2,7 @@
 layout: page
 title: Criminal Justice Operations
 permalink: /project_criminal_justice/
-description: A growing collection of your cool projects.
+description: 
 nav: false
 nav_order: 8
 display_categories: [work, fun]
