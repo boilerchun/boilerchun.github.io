@@ -18,7 +18,7 @@ Jail overcrowding is a pressing issue within the U.S. corrections system, with r
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="/assets/img/CC_revolving_door.png" alt="Alt text for image 1" style="width: 300px; height: ;">
+    <img src="/assets/img/CC_revolving_door.png" alt="Alt text for image 1" style="width: 300px; height: auto;">
     <p>Revolving door in criminal justice system</p>
   </div>
   <div style="text-align: center;">
