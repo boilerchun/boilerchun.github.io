@@ -12,18 +12,19 @@ horizontal: false
 Recently, I have started working on developing predictive and operations tool for **criminal justice** system and its interface with **substance use abuse**.
 
 **Stopping the Revolving Door: MDP-Based Decision Support for Community Corrections Placement**
+
 Authors: <ins>X. Gao</ins>, **P. Shi**, N. Kong [[Abstract and full paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672337)
 
 Jail overcrowding is a pressing issue within the U.S. corrections system, with recidivism playing a key role in exacerbating this problem. In response, incarceration-diversion programs like community corrections (CC) have gained attention for their potential to break this cycle by offering treatment and reintegration services. However, sending all eligible individuals to CC without proper consideration can merely transfer overcrowding from jail to CC, potentially leading to adverse outcomes. Our research addresses the urgent need for analytics-informed decision support to identify suitable CC candidates while accounting for relevant factors. 
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="/assets/img/CC_revolving_door.png" alt="Alt text for image 1" style="width: 300px; height: auto;">
-    <p>Revolving door in criminal justice system</p>
+    <img src="/assets/img/CC_revolving_door.png" alt="Alt text for image 1" style="width: 180px; height: auto;">
+    <p>Revolving door in criminal justice system.</p>
   </div>
   <div style="text-align: center;">
-    <img src="/assets/img/CC_model.png" alt="Alt text for image 2" style="width: 300px; height: auto;">
-    <p>Process flow of MDP model</p>
+    <img src="/assets/img/CC_model.png" alt="Alt text for image 2" style="width: 450px; height: auto;">
+    <p>Process flow of our MDP model.</p>
   </div>
 </div>
 
@@ -34,7 +35,18 @@ Through a fruitful collaboration with our community partner, [TCCC](https://www.
 While this paper presents an important step forward in understanding and optimizing placement decisions in the community corrections setting, we acknowledge that the criminal justice system is inherently complex and multi-faceted, involving various legal, social, and individual factors that cannot be fully captured in any mathematical model. Our decision-support framework should be seen as a tool to facilitate better-informed decisions beyond the traditional siloed thinking and offers an alternative perspective to advocates of jail capacity expansion.  
 
 **Combining Machine Leaning and Queueing Theory for Data-driven Incarceration-Diversion Program Management.**
-Authors: <ins>B. Li</ins>, <ins>A. Castellanos</ins>, **P. Shi**, and A. Ward [[Draft]](https://web.ics.purdue.edu/~shi178/IAAI_24_forShare.pdf)
-   - Preliminary accepted IAAI 2024 (31% acceptance rate)
+
+Authors: <ins>B. Li</ins>, <ins>A. Castellanos</ins>, **P. Shi**, and A. Ward [[Draft]](https://web.ics.purdue.edu/~shi178/IAAI_24_forShare.pdf), Accepted by IAAI 2024 (31% acceptance rate)
 
 Incarceration-diversion programs have proven effective in reducing recidivism. Accurate prediction of the number of individuals with different characteristics in the program and their program outcomes based on given eligibility criteria is crucial for successful implementation, because this prediction serves as the foundation for determining the appropriate program size and the consequent staffing requirements. However, this task poses challenges due to the complexities arising from varied outcomes and lengths-of-stay for the diverse individuals in incarceration-diversion programs. In collaboration with an Illinois government agency, we develop a framework to address these issues. Our framework combines ML and queueing model simulation, providing accurate predictions for the program census and interpretable insights into pro- gram dynamics and the impact of different decisions in counterfactual scenarios. Additionally, we deploy a user-friendly web app beta-version that allows program managers to visualize census data by counties and race groups. We showcase two decision support use cases: changing program admission criteria and launching similar programs in new counties.
+
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center;">
+    <img src="/assets/img/IAAI_program.png" alt="Alt text for image 1" style="width: 300px; height: auto;">
+    <p>Incarceration-diversion program diagram.</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/img/IAAI_framework.png" alt="Alt text for image 2" style="width: 300px; height: auto;">
+    <p>Overview of our framework and relevant paramters.</p>
+  </div>
+</div>
