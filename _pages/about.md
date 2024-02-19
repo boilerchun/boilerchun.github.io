@@ -31,7 +31,7 @@ I have had the pleasure of working closely with PhD students and undergraduate s
 Here are links to my [CV](https://web.ics.purdue.edu/~shi178/Pengyi%20Shi_CV_Sep2023.pdf), [Google Scholar](https://scholar.google.com/citations?user=8xJkl2cAAAAJ&hl=en), [Personal Website](https://web.ics.purdue.edu/~shi178/).
 
 #### Current Research Topics
-Click icons for more information!
+Click project icons for more information.
 
 <div style="display: flex; justify-content: start; align-items: center;">
   <a href="https://boilerchun.github.io/project_criminal_justice/" target="_blank">
